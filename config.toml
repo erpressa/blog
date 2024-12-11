@@ -1,7 +1,8 @@
-baseURL = "http://glim-midnight.pages.dev"
+baseURL = "https://erpressa.github.io/blog/"
 languageCode = "en-us"
 theme = "glim-midnight"
 
+publishDir = "."
 [params]
     title = "Benvenuto"
     phrases = ["Nel", "Blog", "Di", "Cristiano", "Giannini"]
