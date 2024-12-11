@@ -1,0 +1,16 @@
+baseURL = "http://glim-midnight.pages.dev"
+languageCode = "en-us"
+theme = "glim-midnight"
+
+publishDir = "docs"
+
+[params]
+    title = "Benvenuto"
+    phrases = ["Nel", "Blog", "Di", "Cristiano", "Giannini"]
+    links = [
+    {name = "Github", url = "<https://github.com/erpressa"},
+    {name = "In", url = "/wiki"},
+    {name = "Allestimento", url = "https://github.com/erpressa"}
+    ]
+    background = "bg.mp4"
+
