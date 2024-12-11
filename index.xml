@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://erpressa.github.io/blog/</link>
-    <description>Recent content on </description>
+    <title>Il mio Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Il mio Blog</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="https://erpressa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Benvenuto nel mio blog</title>
-      <link>https://erpressa.github.io/blog/post/benvenuto/</link>
-      <pubDate>Wed, 11 Dec 2024 12:00:00 +0100</pubDate>
-      <guid>https://erpressa.github.io/blog/post/benvenuto/</guid>
-      <description>&lt;p&gt;Ciao! Benvenuti nel mio nuovo blog.&lt;/p&gt;</description>
-    </item>
+    <language>it</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
